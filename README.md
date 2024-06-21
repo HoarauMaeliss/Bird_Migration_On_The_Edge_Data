@@ -7,4 +7,4 @@ R script and data used for the paper Bird Migrarion On the Edge
 - A R_script “Main_Manuscript_Statistcal_Analysis-and-Plot.R” used to realize all the analysis and plot presented in the main manuscript.
 - A R_script “Main_Manuscript_Statistcal_Analysis-and-Plot_Review.R” used to realize all the analysis and plot presented in the main manuscript.
 - 2 png files: “Figure_1.png” and “Figure_2.png” which are the figures of the manuscript
-- Movie_S1.avi and Movie_S1.mp4: Snow goose accelerometry data and associated video recording at the spring staging area (Southern Quebec) in 2021.
+- Movie_S1.mp4 and VideoS1_Metadata: Snow goose accelerometry data and associated video recording at the spring staging area (Southern Quebec) in 2021.
